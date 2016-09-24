@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KeyboardSticker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KeyboardSticker_jar</output-path>
+    <root id="archive" name="KeyboardSticker.jar">
+      <element id="module-output" name="KeyboardSticker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JNativeHook/jar/jnativehook-2.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
