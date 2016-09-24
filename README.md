@@ -10,8 +10,8 @@ How it works:
 
 - run the app to get the visual keyboard on your screen
 - choose the first and the second languages (e.g. English - Arabic)
-- now you can see whre Arabic keys are 
-- type your message in any ither resourse keeping the app open and on top to see the references
+- now you can see where Arabic keys are 
+- type your message in any other resourses keeping the app open and on top to see the references
 - every time you hit the button you see the activity echoed in the app 
 
 
